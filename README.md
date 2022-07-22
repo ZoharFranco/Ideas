@@ -1,2 +1,2 @@
 # Ideas
-Ideas for startups, algorithms, creative writing, ..........
+Ideas for startups, algorithms
